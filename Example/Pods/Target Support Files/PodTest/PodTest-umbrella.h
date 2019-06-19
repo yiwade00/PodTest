@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "DefineHeader.h"
 #import "ZJCustomHud.h"
 
 FOUNDATION_EXPORT double PodTestVersionNumber;
