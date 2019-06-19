@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PodTest'
-  s.version          = '0.1.1'
+  s.version          = '0.1.3'
   s.summary          = 'PodTest'
 
 # This description is used to generate tags and improve search results.
@@ -31,6 +31,9 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'PodTest/Classes/**/*'
+  # s.public_header_files = 'PodTest/Classes/*.{h}'
+  #s.requires_arc = true
+
   
   # s.resource_bundles = {
   #   'PodTest' => ['PodTest/Assets/*.png']
@@ -39,4 +42,10 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  
+  #s.subspec 'yiwade00_ZJCustomHUD' do |ss|
+  # ss.source_files = 'PodTest/Classes/yiwade00_ZJCustomHUD/*'
+  # ss.public_header_files = 'PodTest/Classes/yiwade00_ZJCustomHUD/*.h'
+  
+  
 end

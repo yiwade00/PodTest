@@ -1,6 +1,6 @@
 {
   "name": "PodTest",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "PodTest",
   "description": "测试工程 PodTest",
   "homepage": "https://github.com/yiwade00/PodTest",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/yiwade00/PodTest.git",
-    "tag": "0.1.1"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "8.0"
