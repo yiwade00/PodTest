@@ -1,8 +1,8 @@
 {
   "name": "PodTest",
   "version": "0.1.0",
-  "summary": "A short description of PodTest.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "PodTest",
+  "description": "测试工程 PodTest",
   "homepage": "https://github.com/yiwade00/PodTest",
   "license": {
     "type": "MIT",
